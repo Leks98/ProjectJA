@@ -1,0 +1,4 @@
+﻿  GaussJordanElimination.cpp
+     Creating library C:\Users\olenk\source\repos\GaussJordanElimination\Debug\GaussJordanElimination.lib and object C:\Users\olenk\source\repos\GaussJordanElimination\Debug\GaussJordanElimination.exp
+GaussJordanElimination.obj : error LNK2019: unresolved external symbol _AsmFunction@8 referenced in function _chooseIdxOfFundamentalElement
+C:\Users\olenk\source\repos\GaussJordanElimination\Debug\GaussJordanElimination.dll : fatal error LNK1120: 1 unresolved externals

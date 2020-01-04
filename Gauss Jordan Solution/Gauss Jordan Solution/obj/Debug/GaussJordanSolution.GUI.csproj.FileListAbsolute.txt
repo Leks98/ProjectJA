@@ -1,0 +1,36 @@
+C:\Users\olenk\source\repos\Gauss Jordan Solution\Gauss Jordan Solution\obj\Debug\GaussJordanSolution.GUI.csprojAssemblyReference.cache
+C:\Users\olenk\source\repos\Gauss Jordan Solution\Gauss Jordan Solution\obj\Debug\MainWindow.g.cs
+C:\Users\olenk\source\repos\Gauss Jordan Solution\Gauss Jordan Solution\obj\Debug\UserControl\UserControlDescription.g.cs
+C:\Users\olenk\source\repos\Gauss Jordan Solution\Gauss Jordan Solution\obj\Debug\UserControl\UserControlInstruction.g.cs
+C:\Users\olenk\source\repos\Gauss Jordan Solution\Gauss Jordan Solution\obj\Debug\UserControl\UserControlParameterProperties.g.cs
+C:\Users\olenk\source\repos\Gauss Jordan Solution\Gauss Jordan Solution\obj\Debug\UserControl\UserControlSolve.g.cs
+C:\Users\olenk\source\repos\Gauss Jordan Solution\Gauss Jordan Solution\obj\Debug\App.g.cs
+C:\Users\olenk\source\repos\Gauss Jordan Solution\Gauss Jordan Solution\obj\Debug\Gauss Jordan Solution_MarkupCompile.cache
+C:\Users\olenk\source\repos\Gauss Jordan Solution\Gauss Jordan Solution\obj\Debug\Gauss Jordan Solution_MarkupCompile.lref
+C:\Users\olenk\source\repos\Gauss Jordan Solution\Gauss Jordan Solution\obj\Debug\Gauss Jordan Solution.exe
+C:\Users\olenk\source\repos\Gauss Jordan Solution\Gauss Jordan Solution\obj\Debug\Gauss Jordan Solution.pdb
+C:\Users\olenk\source\repos\Gauss Jordan Solution\Gauss Jordan Solution\bin\Debug\Gauss Jordan Solution.exe.config
+C:\Users\olenk\source\repos\Gauss Jordan Solution\Gauss Jordan Solution\bin\Debug\Gauss Jordan Solution.exe
+C:\Users\olenk\source\repos\Gauss Jordan Solution\Gauss Jordan Solution\bin\Debug\Gauss Jordan Solution.pdb
+C:\Users\olenk\source\repos\Gauss Jordan Solution\Gauss Jordan Solution\bin\Debug\FontAwesome.WPF.dll
+C:\Users\olenk\source\repos\Gauss Jordan Solution\Gauss Jordan Solution\bin\Debug\MaterialDesignColors.dll
+C:\Users\olenk\source\repos\Gauss Jordan Solution\Gauss Jordan Solution\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\olenk\source\repos\Gauss Jordan Solution\Gauss Jordan Solution\bin\Debug\FontAwesome.WPF.xml
+C:\Users\olenk\source\repos\Gauss Jordan Solution\Gauss Jordan Solution\bin\Debug\MaterialDesignColors.pdb
+C:\Users\olenk\source\repos\Gauss Jordan Solution\Gauss Jordan Solution\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\olenk\source\repos\Gauss Jordan Solution\Gauss Jordan Solution\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\olenk\source\repos\Gauss Jordan Solution\Gauss Jordan Solution\obj\Debug\App.baml
+C:\Users\olenk\source\repos\Gauss Jordan Solution\Gauss Jordan Solution\obj\Debug\MainWindow.baml
+C:\Users\olenk\source\repos\Gauss Jordan Solution\Gauss Jordan Solution\obj\Debug\UserControl\UserControlDescription.baml
+C:\Users\olenk\source\repos\Gauss Jordan Solution\Gauss Jordan Solution\obj\Debug\UserControl\UserControlInstruction.baml
+C:\Users\olenk\source\repos\Gauss Jordan Solution\Gauss Jordan Solution\obj\Debug\UserControl\UserControlParameterProperties.baml
+C:\Users\olenk\source\repos\Gauss Jordan Solution\Gauss Jordan Solution\obj\Debug\UserControl\UserControlSolve.baml
+C:\Users\olenk\source\repos\Gauss Jordan Solution\Gauss Jordan Solution\obj\Debug\Gauss Jordan Solution.g.resources
+C:\Users\olenk\source\repos\Gauss Jordan Solution\Gauss Jordan Solution\obj\Debug\Gauss_Jordan_Solution.Properties.Resources.resources
+C:\Users\olenk\source\repos\Gauss Jordan Solution\Gauss Jordan Solution\obj\Debug\GaussJordanSolution.GUI.csproj.GenerateResource.cache
+C:\Users\olenk\source\repos\Gauss Jordan Solution\Gauss Jordan Solution\obj\Debug\GaussJordanSolution.GUI.csproj.CoreCompileInputs.cache
+C:\Users\olenk\source\repos\Gauss Jordan Solution\Gauss Jordan Solution\obj\Debug\GaussJordanSolution.GUI.csproj.CopyComplete
+C:\Users\olenk\source\repos\Gauss Jordan Solution\Gauss Jordan Solution\bin\Debug\GaussJordanMethod.exe
+C:\Users\olenk\source\repos\Gauss Jordan Solution\Gauss Jordan Solution\bin\Debug\GaussJordanMethod.pdb
+C:\Users\olenk\source\repos\Gauss Jordan Solution\Gauss Jordan Solution\bin\Debug\GaussJordanMethod.exe.config
+C:\Users\olenk\source\repos\Gauss Jordan Solution\Gauss Jordan Solution\obj\Debug\Gauss_Jordan_Solution.CustomerItems.ApplicationMessageBox.resources
